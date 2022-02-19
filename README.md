@@ -8,20 +8,21 @@ If you like it, please consider leaving a github star.  I think that it would be
 ## the autoresponse
 
 ```
-Thanks so much for reaching out. I'm always interested in hearing about what new and exciting opportunities are out there. As a software engineer I'm sure you can imagine that I get a very high volume of recruiters reaching out on LinkedIn. It is a wonderful position of privilege to be in and I'm thankful for it.
+Muito obrigado por entrar em contato. Estou sempre interessado em ouvir sobre oportunidades novas e empolgantes. Como engenheiro de software, tenho certeza que você pode imaginar que recebo um volume muito alto de contatos de recrutadores. É uma posição de privilégio maravilhosa e sou muito grato por isso.
 
-It does however mean that I don't have the time to hop on a call with everyone who reaches out. A lot of the time, incoming messages represent a very poor fit indeed.
+No entanto, isso significa que eu não tenho tempo para responder todo mundo. Na maioria das vezes, as mensagens recebidas não estão muito alinhadas com o meu perfil.
 
-I would love to continue the conversation, but before I do, I'd like to level set around the level of seniority that you're looking for. 
+Eu adoraria continuar a conversa, mas antes disso, gostaria de definir o nível de Senior que você está procurando.
 
-Can you send along the company name, a job description and, total compensation details for the role you're reaching out in reference to? 
+Você pode me enviar o nome da empresa, uma descrição do trabalho e os detalhes de remuneração para a função que você está oferecendo?
 
-While I very much appreciate the fact that exceptionally talented and engaged recruiters reach out consistently, sorting serious and high quality opportunities from spam would be a full time job without an autoresponder.
+Embora eu aprecie muito o fato de recrutadores excepcionalmente talentosos e engajados entrarem em contato de forma consistente, separar oportunidades sérias e de alta qualidade do resto pode rapidamente ficar inviável sem um autoresponder.
 
-In the absence of detailed information regarding the nature of the opportunity in question, I will be unavailable for further discussion.
-Thanks again for reaching out!
+Na ausência de informações detalhadas sobre a natureza da oportunidade em questão, não estarei disponível para discussões adicionais.
+
+Obrigado novamente por entrar em contato!
  
-I look forward to hearing from you.
+Estou ansioso pelas respostas de vocês.
 
 Marcos Tadeu
 ```
