@@ -10,7 +10,7 @@ If you like it, please consider leaving a github star.  I think that it would be
 ```
 Muito obrigado por entrar em contato. Estou sempre interessado em ouvir sobre oportunidades novas e empolgantes. Como engenheiro de software, tenho certeza que você pode imaginar que recebo um volume muito alto de contatos de recrutadores. É uma posição de privilégio maravilhosa e sou muito grato por isso.
 
-No entanto, isso significa que eu não tenho tempo para responder todo mundo. Na maioria das vezes, as mensagens recebidas não estão muito alinhadas com o meu perfil.
+No entanto, isso significa que eu não tenho tempo para responder todo mundo, muito menos conversar por telefone. Na maioria das vezes as mensagens recebidas não estão muito alinhadas com o meu perfil.
 
 Eu adoraria continuar a conversa, mas antes disso, gostaria de definir o nível de Senior que você está procurando.
 
